@@ -6,7 +6,7 @@ The Mars Integrity Rover was developed for MEC 203 as a sister-rover concept ins
 
 [![Watch the Mars Rover Walkthrough](https://img.youtube.com/vi/tB9zMO3_qDc/0.jpg)](https://youtu.be/tB9zMO3_qDc)
 
-Click the image above to watch a full walkthrough of the rover design, major components, and mechanical design decisions.
+**▶ [WATCH THE FULL MARS ROVER WALKTHROUGH](https://youtu.be/tB9zMO3_qDc)**
 
 The design process included developing the rover chassis, suspension system, robotic arm, gripper mechanism, camera system, and supporting components as a complete CAD assembly. The project also considered mechanical fit, clearances, component placement, and overall rover functionality rather than treating the model as only a visual concept.
 
