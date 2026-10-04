@@ -2,6 +2,14 @@
 
 The Mars Integrity Rover was developed for MEC 203 as a sister-rover concept inspired by NASA’s Mars 2020 Perseverance mission. The project focused on maintaining the reliability of a proven six-wheel rover platform while developing a new sample-collection system capable of securely handling objects with irregular geometry.
 
+## Project Walkthrough
+
+[![Watch the Mars Rover Walkthrough](https://img.youtube.com/vi/tB9zMO3_qDc/0.jpg)](https://youtu.be/tB9zMO3_qDc)
+
+Click the image above to watch a full walkthrough of the rover design, major components, and mechanical design decisions.
+
+The design process included developing the rover chassis, suspension system, robotic arm, gripper mechanism, camera system, and supporting components as a complete CAD assembly. The project also considered mechanical fit, clearances, component placement, and overall rover functionality rather than treating the model as only a visual concept.
+
 The design process included developing the rover chassis, suspension system, robotic arm, gripper mechanism, camera system, and supporting components as a complete CAD assembly. The project also considered mechanical fit, clearances, component placement, and overall rover functionality rather than treating the model as only a visual concept.
 
 A major part of the project involved improving the sample-handling system. The final design used a multi-point gripper intended to provide greater stability and contact with collected objects while reducing the chance of slipping during sample collection. The robotic arm was designed with multiple pivot points to improve positioning and reach.
